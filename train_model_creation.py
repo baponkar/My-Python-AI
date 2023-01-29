@@ -1,3 +1,5 @@
+#Crdit : https://www.c-sharpcorner.com/article/real-time-emotion-detection-using-python/
+
 import sys, os  
 
 import pandas as pd  
