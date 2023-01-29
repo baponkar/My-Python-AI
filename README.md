@@ -17,3 +17,19 @@ Emotion Keras Model download from [here](https://github.com/karansjc1/emotion-de
 Keras Model download [link](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
 
 
+
+```
+git clone https://github.com/baponkar/My-Python-AI
+cd My-Python-AI-master
+
+python -m venv venv
+./venv/Scripts/activate #to activate virtual envirionment in Windows
+source venv/bin/activate #to activate virtual envirionment in Linux
+
+pip install -r requirements.txt
+
+python detect_face_by_camera.py
+
+#press q to quit
+
+```
