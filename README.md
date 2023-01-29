@@ -14,5 +14,4 @@ Haarcascade file used from [this](https://github.com/opencv/opencv/tree/master/d
 
 Keras Model download [link](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)
 
-To solve issue 
-[TesseractNotFoundError()](https://stackoverflow.com/questions/50655738/how-do-i-resolve-a-tesseractnotfounderror)
+
